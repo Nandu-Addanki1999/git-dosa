@@ -18,3 +18,4 @@
 * Carrot Onion
 * Tomoto and Panner scrambled
 * Ghee
+* Light Oil
